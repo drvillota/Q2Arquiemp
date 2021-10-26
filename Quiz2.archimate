@@ -121,6 +121,36 @@
           <bounds x="396" y="60" width="163" height="55"/>
         </child>
       </child>
+      <child xsi:type="archimate:DiagramObject" id="id-4c955982d3874e31b771170b0937ebec" archimateElement="id-e98067cfedb14360a98a8c058866bfea">
+        <bounds x="72" y="372" width="840" height="251"/>
+        <child xsi:type="archimate:DiagramObject" id="id-7ce97db359e2421ea0830dfcaddc5c6b" archimateElement="id-0e963db08897451982138e1c499eada8">
+          <bounds x="72" y="24" width="145" height="202"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-533e0cda47124d30a1b6d387253d9b72" archimateElement="id-ce91416a5b954cf0a6ed1ff794a819d4">
+          <bounds x="300" y="24" width="217" height="202"/>
+          <child xsi:type="archimate:DiagramObject" id="id-ebf4fc36e17d44b399fe8c3f45f2670e" archimateElement="id-abacc3ad34f24d708f3584bd143a16e0">
+            <bounds x="48" y="24" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-41a126eacce24c4d89b9a63b20129aac" archimateElement="id-8cb96045e11744c28c2f5871ca2b80bf">
+            <bounds x="48" y="108" width="120" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b5d15f596aa243cea12122e5eac28331" archimateElement="id-6f5f9e48de4b4be8822c52f95df38926">
+          <bounds x="564" y="24" width="217" height="202"/>
+          <child xsi:type="archimate:DiagramObject" id="id-1faacb6332fe48f286fd1b7ef3dcd4e7" archimateElement="id-eb7f9974d39d4e53bd4ebf612ff2fb15">
+            <bounds x="48" y="24" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-efd71ad1bb3b4161a81aca038c48bfdf" archimateElement="id-5838f2e370774904b9829848ce69572c">
+            <bounds x="48" y="108" width="120" height="55"/>
+          </child>
+        </child>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-77ac9268b79d4377b0a1263388efc746" archimateElement="id-e2950a41dc9a442aa46622b1e54ce193">
+        <bounds x="288" y="636" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-c10600948a07484688e318b3ee2c02c6" archimateElement="id-3cff1fedc92a4401b707f483bd858225">
+        <bounds x="540" y="636" width="120" height="55"/>
+      </child>
     </element>
   </folder>
 </archimate:model>

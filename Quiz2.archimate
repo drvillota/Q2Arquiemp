@@ -29,20 +29,15 @@
     </folder>
   </folder>
   <folder name="Application" id="id-17cb0e05ae184695b881302996ef8dd3" type="application">
-    <folder name="Applications" id="id-e3b4ce83ad6c4646afa6b671a59a47da">
-      <element xsi:type="archimate:ApplicationComponent" name="Portal Web" id="id-e24c16bb5fc64748a9ff9ffcc9b2d319"/>
-      <element xsi:type="archimate:ApplicationComponent" name="Aplicación Gestor de Inventario" id="id-879505f928a0403a826e02eb489962cb"/>
-      <element xsi:type="archimate:ApplicationComponent" name="Aplicación e-logistics" id="id-684c3a46617542a4a8a2612db3c69938"/>
-      <element xsi:type="archimate:ApplicationComponent" name="Cliente de Correo" id="id-e43838a7ea0e4268b65bb134ecc4b152"/>
-      <element xsi:type="archimate:ApplicationComponent" name="Aplicación CRM" id="id-1896e1bf7a014c81abe8990fcb909cde"/>
-      <element xsi:type="archimate:ApplicationComponent" name="Aplicación ERP" id="id-b9c08b13b8884d58a0149d7a38a83616"/>
+    <folder name="Applications" id="id-e3b4ce83ad6c4646afa6b671a59a47da"/>
+    <folder name="Application services" id="id-4641c5d9a61c4576af4a446d7d3374c9">
+      <element xsi:type="archimate:ApplicationService" name="Actualización inventario" id="id-3f3548e1e3874efc9727e1bfd746128a"/>
+      <element xsi:type="archimate:ApplicationService" name="Desplegar servidor Linux" id="id-e902a1d2f32e48479696fb5a0b9a49cb"/>
+      <element xsi:type="archimate:ApplicationService" name="Planear rutas" id="id-783247bcdf6241f19d8000838a672517"/>
     </folder>
-    <folder name="Application Services" id="id-615b08487fb74d52bc119a2cc1e09c43">
-      <element xsi:type="archimate:ApplicationService" name="Servicio de actualización de inventario" id="id-4148264aa19546e3a3852681c6446f36"/>
-      <element xsi:type="archimate:ApplicationService" name="Servicio de optimización de rutas" id="id-e9bd0f6a4a0d4ba3836caedafed15fa5"/>
-      <element xsi:type="archimate:ApplicationService" name="Servicio de Perfilamiento de Cliente" id="id-c4a82796e50e47b6b4a2ddc01e7ce7ce"/>
-      <element xsi:type="archimate:ApplicationService" name="Servicio de configuración de pago " id="id-483fbe1f7a8f4c29a3ca6baf387557ca"/>
-      <element xsi:type="archimate:ApplicationService" name="Servicio de generación de órdenes " id="id-6c6dcc393e53475fbfd6d88385de9929"/>
+    <folder name="Application component" id="id-04512c708cc0461a994038051d0cfe33">
+      <element xsi:type="archimate:ApplicationComponent" name="E-logistics" id="id-a9c4c7aa88414e33bbc3550aa930076d"/>
+      <element xsi:type="archimate:ApplicationComponent" name="Gestor de inventarios" id="id-2b25e59b08ce4acf86bca81d2bbb7c24"/>
     </folder>
   </folder>
   <folder name="Technology &amp; Physical" id="id-b8884a5dbc594594aca85a7d60938e78" type="technology"/>

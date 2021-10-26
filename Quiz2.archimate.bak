@@ -18,6 +18,7 @@
       <element xsi:type="archimate:BusinessActor" name="Box-ohol" id="id-e98067cfedb14360a98a8c058866bfea"/>
       <element xsi:type="archimate:BusinessActor" name="Oficina Central" id="id-ce91416a5b954cf0a6ed1ff794a819d4"/>
       <element xsi:type="archimate:BusinessActor" name="Punto de Distribución" id="id-6f5f9e48de4b4be8822c52f95df38926"/>
+      <element xsi:type="archimate:BusinessActor" name="Tienda virtual " id="id-0e963db08897451982138e1c499eada8"/>
     </folder>
     <folder name="Business Roles" id="id-fdaa523e42f444a482b35c44353e6ac0">
       <element xsi:type="archimate:BusinessRole" name="Cliente" id="id-91ced735a9a8470e9ee60423fa86d012"/>
@@ -34,7 +35,9 @@
       <element xsi:type="archimate:BusinessProcess" name="Proceso de planeación de rutas" id="id-66210921f0ca45b39614046c4e229a5e"/>
       <element xsi:type="archimate:BusinessProcess" name="Proceso de personalización de suscripciones" id="id-cca354e8877e4fa59d67296602de2c00"/>
       <element xsi:type="archimate:BusinessProcess" name="Proceso de pedido de insumos" id="id-36070bd5075540ae856f9feb77bf25d6"/>
+      <element xsi:type="archimate:BusinessProcess" name="Proceso de registro de usuario" id="id-bcbc57372a9b47b2bc7dc5f6441d34e7"/>
     </folder>
+    <folder name="Business Products" id="id-54cf22b3044349d6974689b65399824b"/>
   </folder>
   <folder name="Application" id="id-17cb0e05ae184695b881302996ef8dd3" type="application">
     <folder name="Applications" id="id-e3b4ce83ad6c4646afa6b671a59a47da">
@@ -62,5 +65,6 @@
   <folder name="Relations" id="id-68d7815aa2254e84b80bbdcd34eb3045" type="relations"/>
   <folder name="Views" id="id-5ec911249a1b4be6909e85beeff7fe58" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-7af1f0c2a93e42358e5313355a409659"/>
+    <element xsi:type="archimate:ArchimateDiagramModel" name="New ArchiMate View" id="id-9d5d23f97739479b836468722799d019"/>
   </folder>
 </archimate:model>

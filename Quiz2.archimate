@@ -29,7 +29,14 @@
     </folder>
   </folder>
   <folder name="Application" id="id-17cb0e05ae184695b881302996ef8dd3" type="application">
-    <folder name="Applications" id="id-e3b4ce83ad6c4646afa6b671a59a47da"/>
+    <folder name="Applications" id="id-e3b4ce83ad6c4646afa6b671a59a47da">
+      <element xsi:type="archimate:ApplicationComponent" name="Portal Web" id="id-e24c16bb5fc64748a9ff9ffcc9b2d319"/>
+      <element xsi:type="archimate:ApplicationComponent" name="Aplicación Gestor de Inventario" id="id-879505f928a0403a826e02eb489962cb"/>
+      <element xsi:type="archimate:ApplicationComponent" name="Aplicación e-logistics" id="id-684c3a46617542a4a8a2612db3c69938"/>
+      <element xsi:type="archimate:ApplicationComponent" name="Cliente de Correo" id="id-e43838a7ea0e4268b65bb134ecc4b152"/>
+      <element xsi:type="archimate:ApplicationComponent" name="Aplicación CRM" id="id-1896e1bf7a014c81abe8990fcb909cde"/>
+      <element xsi:type="archimate:ApplicationComponent" name="Aplicación ERP" id="id-b9c08b13b8884d58a0149d7a38a83616"/>
+    </folder>
   </folder>
   <folder name="Technology &amp; Physical" id="id-b8884a5dbc594594aca85a7d60938e78" type="technology"/>
   <folder name="Motivation" id="id-5019c3ef455949f59d4f86dcc1672636" type="motivation"/>
